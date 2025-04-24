@@ -59,6 +59,19 @@ style {
     button:hover{
       background:#4a443e;
     }
+ .close-button {
+      padding: 10px 15px;
+      background-color: 
+      #675450;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor:pointer;
+      font-size: 15px;
+      font-family: cursive;
+      margin-top: 10px;
+      transition: background 0.3 ease;
+ }
 
     
     iframe {
